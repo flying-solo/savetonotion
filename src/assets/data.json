@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "media": "Twitter",
+      "userName": [
+        { "user": "twitter@username1", "id": "t1" },
+        { "user": "twitter@username2", "id": "t2" },
+        { "user": "twitter@username3", "id": "t3" }
+      ]
+    },
+    {
+      "media": "Facebook",
+      "userName": [
+        { "user": "facebook@username1", "id": "f1" },
+        { "user": "facebook@username2", "id": "f2" },
+        { "user": "facebook@username3", "id": "f3" }
+      ]
+    },
+    {
+      "media": "Telegram",
+      "userName": [
+        { "user": "telegram@username1", "id": "f1" },
+        { "user": "telegram@username2", "id": "f2" },
+        { "user": "telegram@username3", "id": "f3" }
+      ]
+    }
+  ]
+}
+
